@@ -12,7 +12,7 @@ https://github.com/IronLanguages/ironclad/wiki/building
 https://www.openstreetmap.org/export
 
 .
-3. This digital map data conversion function inspired by Junichiro Horikawa:
+3. This digital map data conversion function was inspired by Junichiro Horikawa:
 
 https://www.youtube.com/watch?v=0XZeUH-qgJo
 
